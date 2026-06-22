@@ -4,10 +4,10 @@ Low-Density lipoprotein triglyceride Mendelian Randomization analysis with UK Bi
 ## Figures
 
 ### Study Rationale
-![Figure 1](figures/fig_1_rationale.png)
+!(figures/fig_1_rationale.png)
 
 ### Whole analysis bioinformatics pipeline
-![Figure 2](figures/fig_2_whole_pipeline.png)
+!(figures/fig_2_whole_pipeline.png)
 
-### PILINK2 GWAS computing pipeline
-![Figure 3](figures/fig_3_gwas_pink2.png)
+### PLINK2 GWAS computing pipeline
+!(figures/fig_3_gwas_pink2.png)
