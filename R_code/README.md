@@ -3,7 +3,7 @@
 ############################################################################################
 # Assume you have already computed the TG alone,  ApoB_alone, and LDL-TG GWAS
 #  
-# For diabetes gwas outcomes: https://diagram-consortium.org/downloads.html
+# For CAD gwas outcomes: https://diagram-consortium.org/downloads.html
 #
 #
 # Track A- Total effect (Univariable MR: LDL-TG)
