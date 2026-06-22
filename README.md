@@ -43,7 +43,11 @@
 
 5. These findings support TG-LDL as a potentially causal and biologically relevant biomarker for CAD risk.
 
-
+## Acknowledgment
+1. American Diabetes Association (7-23-JDFWH-10)
+2. National Institute of General Medical Sciences of the National Institutes of Health (1P20GM152305)
+3. Administrative Supplement of the Louisiana Clinical & Translational Science Center (U54 GM104940)
+4. The Tulane Center of Excellence in Sex-Based Biology & Medicine (TCESBM)
 
 
 ## R Code
