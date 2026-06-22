@@ -1,6 +1,8 @@
 # LDL-TG-MR
 Low-Density lipoprotein triglyceride Mendelian Randomization analysis with UK Biobank data
 
+## Figures
+
 ### Study Rationale
 !(figures/fig_1_rationale.png)
 
